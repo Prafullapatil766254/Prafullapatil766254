@@ -28,26 +28,41 @@
 
 
 - Explored Core Java, OOPs concepts, Spring Boot, Hibernate, SQL, Amazon EC2, Git, and GitHub.
-
-### Data Structures and Algorithms (DSA) Progress
-
 - Successfully solved over 300 challenging DSA questions on Geekster platform.
 - Strengthened problem-solving skills and deepened understanding of algorithms.
 
-### Hands-on Project Experience
 
-- Created multiple projects using Spring Boot framework.
-- Utilized SQL databases for project implementations.
-- Deployed projects on AWS EC2 instances.
-- Gained practical knowledge of backend development.
+# Projects
 
-### Future Aspirations
+### Recipe Management API
+
+A recipe management REST API is a web service that allows users to manage their recipes by performing operations such as creating, updating, retrieving, and deleting recipes. The Spring Boot framework is a popular choice for building RESTful web services due to its ease of use, robustness, and scalability.
+
+**Key Features:**
+- Implemented security measures, including validations, to ensure application safety.
+- Enabled the owner of the recipe to perform CRUD operations on the recipes while other users can comment on recipes.
+- Leveraged JPA with Hibernate to connect to a MySQL database, enabling seamless data interaction.
+- Deployed the application on AWS EC2 for high performance and scalability.
+
+**Tech Stack:** Java, Spring Boot, MVC Architecture, MySQL, AWS EC2, Git version control
+
+### Doctors Appointment Booking API
+
+Doctors Appointment Booking API is a modern and efficient solution built on top of the Spring Boot framework, utilizing the Model-View-Controller (MVC) architecture to manage appointments of patients with doctors. Spring Boot offers a comprehensive set of tools and libraries that simplify the creation of REST APIs, enabling the API to handle various types of requests and responses with ease.
+
+**Key Features:**
+- Doctors Appointment Booking API built on the Spring Boot framework boasts key features such as patient authentication and CRUD operations of appointments.
+
+**Tech Stack:** Java, Spring Boot, MVC Architecture, MySQL, Git version control, postman
+
+
+## Future Aspirations
 
 - Enthusiastic about continued learning and skill application.
 - Passionate about full-stack web development.
 - Eager to embrace new challenges and foster growth.
 
 
-### GitHub Stats
+## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrafullaPatil766254&show_icons=true)
