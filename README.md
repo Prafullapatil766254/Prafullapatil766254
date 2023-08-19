@@ -66,3 +66,9 @@ Doctors Appointment Booking API is a modern and efficient solution built on top 
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrafullaPatil766254&show_icons=true)
+
+## Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrafullaPatil766254)
+
+
