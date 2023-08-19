@@ -29,3 +29,6 @@ As of now, I have solved more than 300 challenging Data Structures and Algorithm
 I've also had the chance to work on different projects using these technologies. I have created various projects based on spring boot and also used my SQL database for my projects and I also deployed a few of them on AWS EC2. It helped me a lot to gain more knowledge about the backend.
 Looking ahead, I'm excited to keep learning and using my new skills on real projects. Full-stack web development has become a true passion, and I'm ready to take on more challenges and continue growing.
 
+### GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrafullaPatil766254&show_icons=true)
