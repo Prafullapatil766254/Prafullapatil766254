@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Prafull Patil</h1>
 <h3 align="center">I'm an apprentice at Geekster, learning to become a full-stack web developer. As of now I focused on backend development using Spring Boot, where I've become skilled in Java and Data Structures and Algorithms (DSA) , OOPs , SQL , Spring boot , Hybernate etc. My passion for coding has helped me understand various things, and I'm always eager to learn more. I've completed the backend part of the curriculum, and I'm dedicated to improving and achieving my best in everything I do.</h3>
 
+## Profile Views
+
+![Profile Views](https://profile-counter.glitch.me/Prafullapatil766254/count.svg)
+
+
 - 🌱 I’m currently learning **Springboot , Hybernate**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Prafullapatil766254?tab=repositories](https://github.com/Prafullapatil766254?tab=repositories)
