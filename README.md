@@ -24,15 +24,29 @@
 
 # Experience
 
-# -  Apprentice at Geekster
+## -  Apprentice at Geekster
 
 
-I'm currently an apprentice at Geekster, where I'm diving into a full-stack web development course. As of now, it introduced me to a bunch of cool things like Core Java, OOPs concept, Spring Boot, Hibernate, SQL, Amazon EC2, Git, GitHub, and many more to come.
+- Explored Core Java, OOPs concepts, Spring Boot, Hibernate, SQL, Amazon EC2, Git, and GitHub.
 
-As of now, I have solved more than 300 challenging Data Structures and Algorithms (DSA) questions on the Geekster platform. It's been tough but super rewarding, as it's sharpened my problem-solving skills and given me a solid grasp of how algorithms work.
+### Data Structures and Algorithms (DSA) Progress
 
-I've also had the chance to work on different projects using these technologies. I have created various projects based on spring boot and also used my SQL database for my projects and I also deployed a few of them on AWS EC2. It helped me a lot to gain more knowledge about the backend.
-Looking ahead, I'm excited to keep learning and using my new skills on real projects. Full-stack web development has become a true passion, and I'm ready to take on more challenges and continue growing.
+- Successfully solved over 300 challenging DSA questions on Geekster platform.
+- Strengthened problem-solving skills and deepened understanding of algorithms.
+
+### Hands-on Project Experience
+
+- Created multiple projects using Spring Boot framework.
+- Utilized SQL databases for project implementations.
+- Deployed projects on AWS EC2 instances.
+- Gained practical knowledge of backend development.
+
+### Future Aspirations
+
+- Enthusiastic about continued learning and skill application.
+- Passionate about full-stack web development.
+- Eager to embrace new challenges and foster growth.
+
 
 ### GitHub Stats
 
